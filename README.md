@@ -164,9 +164,9 @@ Using nltk, I ran a sentiment intensity analyzer on each tweet to create a new v
 ### Polarity by Hour
 
 #### Biden:
-![enter image description here](https://i.imgur.com/w4VhSKp.png)
+![enter image description here](https://i.imgur.com/yV9zI09.png)
 #### Trump:
-![enter image description here](https://i.imgur.com/s654LYE.png)
+![enter image description here](https://i.imgur.com/3vb0dto.png)
 
 These hours are in GMT, which is five hours ahead of EST. I was worried for a second that my assumption that Trump tweeted at later hours of the night was fictitious, but the data shows that Trump tweets into later hours of the night.
 
@@ -179,9 +179,9 @@ Trump's positive tweets contain a wide range of variation, but hover around 0.25
 Given the polarized state of the country, I was wondering if this would be reflected in the tweets released this year. 
 
 #### Biden:
-![enter image description here](https://i.imgur.com/9qAzPGI.png)
+![enter image description here](https://i.imgur.com/X1w7YkS.png)
 #### Trump:
-![enter image description here](https://i.imgur.com/8rodxea.png)
+![enter image description here](https://i.imgur.com/34sbsAL.png)
 
 
 Continuing on the analysis of Trump's range of polarity, most of his tweets are classified as positive. There's almost a straight line of darker red dots that can be drawn between 0.25 and 0.50 and 0.50 and 0.75. 
