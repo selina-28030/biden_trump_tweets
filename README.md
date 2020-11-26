@@ -147,6 +147,8 @@ Trump: race, based, on, disaster, political, fraud, mayor, public
 
 Trump: destroy, police, away, wants
 
+______________________________________________
+
 The difference in rhetoric is stark on topics such as healthcare, race, and immigration with Biden's language often reflecting an **appeal to ethics** with words such as "moral," "equality," "rights," and "respect" while Trump's language reflects an attempt to **politicize the pandemic and racial grievances** at the state and local level (i.e. "california," "mayor," "disaster" and "fraud"). 
 
 One caveat to this is that Biden's appeal to ethics is framed as hopeful and positive on topics such as race and immigration, but this is contrasted by his condemnation of Trump's handling of the pandemic where he invokes the power and responsibility of the office he holds to criticize Trump. 
