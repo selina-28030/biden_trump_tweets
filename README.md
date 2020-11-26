@@ -108,11 +108,11 @@ Biden's has steadily tweeted more and more often over the **past two years**, bu
 
 Visualizing t-SNE representations of the most common words from high-dimenensional word vectors (word2vec):
 
-### Biden
+### Biden:
 
 ![enter image description here](https://i.imgur.com/hHs5mIE.png)
 
-### Trump
+### Trump:
 ![enter image description here](https://i.imgur.com/to2qYbG.png)
 
 ### Breakdown by Topic:
