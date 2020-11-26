@@ -157,7 +157,7 @@ Although the close proximity between "israel" and "coronavirus" may be baffling 
 
 ## Polarity of Biden vs Trump Tweets
 
-Polarity is a measure of the opinion expressed in a text from -1 to 1,  negative to positive, respectively. 
+**Polarity is a measure of the opinion expressed in a text from -1 to 1,  negative to positive, respectively.** 
 
 Using nltk, I ran a sentiment intensity analyzer on each tweet to create a new variable, polarity score. 
 
