@@ -174,7 +174,7 @@ For both men, many negatively polar tweets are published later in the night: for
 
 Trump's positive tweets contain a wide range of variation, but hover around 0.25 and 0.75, while Biden's are more strongly positive, with tweets hovering around 0.75 to 1. 
 
-### Polarity by Year 
+### Polarity by Month (in 2020)
 
 Given the polarized state of the country, I was wondering if this would be reflected in the tweets released this year. 
 
