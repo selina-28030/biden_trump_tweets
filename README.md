@@ -1,5 +1,5 @@
 # biden_trump_tweets
-# Is political polarization in the US reflected in the 2020 presidential candidates' tweets?
+# Is polarization in US politics reflected in the 2020 presidential candidates' tweets?
 
 Using this dataset of Joe Biden's [tweets](https://www.kaggle.com/rohanrao/joe-biden-tweets), I took a deeper dive into Joe Biden's tweets, looking at most and least popular topics and performance metrics. The second section compares the most common words from the visualization of word vectors for their tweets and the polarity of Biden versus Trump's [tweets](https://www.thetrumparchive.com) from the past two years. 
 
