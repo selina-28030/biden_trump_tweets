@@ -110,10 +110,10 @@ Visualizing t-SNE representations of the most common words from high-dimenension
 
 ### Biden:
 
-![enter image description here](https://i.imgur.com/hHs5mIE.png)
+![enter image description here](https://i.imgur.com/TcxWIus.png)
 
 ### Trump:
-![enter image description here](https://i.imgur.com/to2qYbG.png)
+![enter image description here](https://i.imgur.com/Tgs9Wl6.png)
 
 ### Breakdown by Topic:
 #### Covid-19/Healthcare
