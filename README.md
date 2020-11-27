@@ -176,9 +176,9 @@ Trump's positive tweets contain a wide range of variation, but hover around 0.25
 
 ### Polarity by Likes
 #### Biden:
-![enter image description here](https://i.imgur.com/gywdOMX.png)
+![enter image description here](https://i.imgur.com/QRDELdb.png)
 #### Trump:
-![enter image description here](https://i.imgur.com/BBswhEB.png)
+![enter image description here](https://i.imgur.com/kE7bECV.png)
 
 Both sets of tweets (although Trump's tweets generally receive more likes) contain a slight u curve, drawing a slight positive correlation between the strength of polarity and the number of likes. As the likes increase, there are less and less tweets, but these tweets also are situated further left and right as the line of neutral tweets in the center becomes more transparent.
 
