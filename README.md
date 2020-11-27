@@ -174,6 +174,13 @@ For both men, many negatively polar tweets are published later in the night: for
 
 Trump's positive tweets contain a wide range of variation, but hover around 0.25 and 0.75, while Biden's are more strongly positive, with tweets hovering around 0.75 to 1. 
 
+### Polarity by Likes
+#### Biden:
+![enter image description here](https://i.imgur.com/gywdOMX.png)
+#### Trump:
+![enter image description here](https://i.imgur.com/BBswhEB.png)
+
+
 ### Polarity by Month (in 2020)
 
 Given the polarized state of the country, I was wondering if this would be reflected in the tweets released this year. 
@@ -189,7 +196,6 @@ Continuing on the analysis of Trump's range of polarity, most of his tweets are 
 Both Biden and Trump, increased their output of tweets nearing the election date shown by the darkening blue and red dots on the right side. 
 
 Biden's tweets are also mostly classified as positive, but a greater amount of his negative tweets tend be classified as strongly negative, with darker blue dots populating the area from -0.5 to -1. However, the trend from more strongly positive tweets from Biden in the hourly analysis holds here, especially nearing Election Day, with the strong cluster of dark blue at the top right corner. 
-
 
 
 
